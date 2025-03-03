@@ -4,4 +4,4 @@ numpy
 scikit-image
 imgaug
 opencv-python-headless
-
+scipy
