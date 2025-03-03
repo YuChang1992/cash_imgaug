@@ -1,7 +1,7 @@
 tensorflow-cpu
 streamlit
-numpy==1.21.0
+numpy
 scikit-image
-imgaug
+imgaug==0.4.0
 opencv-python-headless
 scipy
