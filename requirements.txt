@@ -3,3 +3,4 @@ streamlit
 numpy
 scikit-image
 imgaug
+opencv-python
