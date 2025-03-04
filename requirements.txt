@@ -1,9 +1,0 @@
-tensorflow-cpu
-streamlit
-scikit-image
-numpy
-imgaug
-tensorflow
-scipy
-opencv-contrib-python
-libgl1-mesa-glx
