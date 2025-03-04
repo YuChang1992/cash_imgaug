@@ -1,9 +1,9 @@
 tensorflow-cpu
 streamlit
 scikit-image
-numpy==1.21.0
-imgaug==0.4.0
+numpy
+imgaug
 tensorflow
 scipy
-opencv-contrib-python==4.11.0.86
+opencv-contrib-python
 libgl1-mesa-glx
