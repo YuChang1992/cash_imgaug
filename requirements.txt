@@ -5,5 +5,5 @@ numpy
 imgaug
 tensorflow
 scipy
-opencv-contrib-python
+opencv-contrib-python==4.11.0.86
 libgl1-mesa-glx
