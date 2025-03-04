@@ -3,6 +3,7 @@ streamlit
 scikit-image
 numpy
 imgaug
-opencv-contrib-python
 tensorflow
 scipy
+opencv-contrib-python
+libgl1-mesa-glx
