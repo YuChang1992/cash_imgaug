@@ -1,8 +1,8 @@
 tensorflow-cpu
 streamlit
 scikit-image
-numpy
-imgaug
+numpy==1.21.0
+imgaug==0.4.0
 tensorflow
 scipy
 opencv-contrib-python==4.11.0.86
